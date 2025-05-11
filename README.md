@@ -39,7 +39,7 @@ PocketWords includes the following features:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PocketWords.git
+    git clone https://github.com/TannazParsa/PocketWords.git
     ```
 
 2. Open the `PocketWords.xcodeproj` in Xcode.
